@@ -1,0 +1,23 @@
+#Notatka z wykładów *Podstaw programowania* z dnia 23 listopada 2017
+
+
+jeśli zmienna double to lf
+jeśli long int t ld
+
+& - referencje dla zmiennej
+skoro są referencje to nie jest zmienna tylko ADRES zmiennej
+
+*a - deklaracja adresu sla zmiennej
+
+rozróżnić, czy operujemy na zmiennej czy na adresie
+
+przeczytać referencje i wskaźniki!!!
+
+instalacja jdk pod linux *sudo apt-get install default-jdk* dla
+clion
+
+polecenie witch sprawdza lokalizacje
+
+clion obsługuje gita
+formatowanie kodu: 
+
