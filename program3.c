@@ -1,9 +1,3 @@
-
-# NOTATKA Z PROGRAMOWANIA *"Pierwsze programy"*
----
-
-
-```c
 #include <stdio.h>
 
 /* pierwszy kalkulator */
@@ -49,4 +43,3 @@ int main(void)
 }
 
 
-```

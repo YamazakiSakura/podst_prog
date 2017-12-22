@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+void zamien(char znak1, char znak2){
+
+
+
+}
